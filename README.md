@@ -16,6 +16,7 @@
 <img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img align="left" alt="tailwindcss" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="kotlin" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="firebase" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="mysql" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 
 <br />
