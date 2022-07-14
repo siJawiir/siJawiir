@@ -24,8 +24,9 @@
 ### Connect with me:
 [<img align="left" alt="siJawiir | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="siJawiir | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
-[instagram]: https://www.instagram.com/raihanmarwanda/
+
 [linkedin]: https://www.linkedin.com/in/raihanmarwanda/
+[instagram]: https://www.instagram.com/raihanmarwanda/
 
 <br />
 
