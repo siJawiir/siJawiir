@@ -3,7 +3,7 @@
 
 <br />
 
-- 🎓 Fresh graduate that interest as a **Web & Android Developer**
+- 🎓 Fresh graduate that interest as a **Web & Mobile Developer**
 - 🔎 Open for Work **opportunities**. Contact me!
 - 🌱 I’m currently learning **ReactJS & TailwindCSS**
 - 📧 How to reach me **raihanmarwanda@protonmail.com**
