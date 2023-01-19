@@ -1,5 +1,4 @@
 <h1 align=center>Hi there 👋, I'm Raihan</h1>
-<h3 align=center>Front-end Developer 💼</h3>
 
 <br />
 
