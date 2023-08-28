@@ -4,7 +4,7 @@
 
 - 🎓 Jr.Frontend Developer
 - 🔎 Open for Work **opportunities**. Contact me!
-- 🌱 I’m currently learning **ReactJS & TailwindCSS**
+- 🌱 I’m currently learning **React Native & TailwindCSS**
 - 📧 How to reach me **raihanmarwanda@protonmail.com**
 - 🎉 Fun fact **Friendly & Explorer**
 
