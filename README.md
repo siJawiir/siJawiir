@@ -2,7 +2,7 @@
 
 <br />
 
-- 🎓 Fresh graduate that interest as a **Web & Mobile Developer**
+- 🎓 Jr.Frontend Developer
 - 🔎 Open for Work **opportunities**. Contact me!
 - 🌱 I’m currently learning **ReactJS & TailwindCSS**
 - 📧 How to reach me **raihanmarwanda@protonmail.com**
