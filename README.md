@@ -2,7 +2,7 @@
 
 <br />
 
-- 🎓 Jr.Frontend Developer
+- 🎓 Jr. Frontend Developer
 - 🔎 Open for Work **opportunities**. Contact me!
 - 🌱 I’m currently learning **Dart & Flutter**
 - 📧 How to reach me **raihanmarwanda@protonmail.com**
@@ -13,21 +13,25 @@
 ### Stacks & Tools:
 [<img align="left" alt="javascript" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][javascript]
 [<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][reactjs]
+[<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />][angularjs]
 [<img align="left" alt="tailwindcss" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />][tailwind]
 [<img align="left" alt="kotlin" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />][kotlin]
 [<img align="left" alt="dart" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />][dart]
 [<img align="left" alt="flutter" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />][flutter]
 [<img align="left" alt="firebase" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />][firebase]
 [<img align="left" alt="mysql" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][mysql]
+[<img align="left" alt="mysql" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />][postgresql]
 
 [javascript]: https://www.javascript.com/
 [reactjs]: https://reactjs.org/
+[angularjs]: https://angularjs.org/
 [tailwind]: https://tailwindcss.com/
 [kotlin]: https://kotlinlang.org/
 [dart]: https://dart.dev/
 [flutter]: https://flutter.dev/
 [firebase]: https://firebase.google.com/
 [mysql]: https://www.mysql.com/
+[postgresql]: https://www.postgresql.org/
 
 <br />
 <hr />
