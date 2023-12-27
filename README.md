@@ -12,6 +12,7 @@
 
 ### Stacks & Tools:
 [<img align="left" alt="javascript" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][javascript]
+[<img align="left" alt="javascript" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][typescript]
 [<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][reactjs]
 [<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />][angularjs]
 [<img align="left" alt="tailwindcss" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />][tailwind]
@@ -23,6 +24,7 @@
 [<img align="left" alt="mysql" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />][postgresql]
 
 [javascript]: https://www.javascript.com/
+[typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org/
 [angularjs]: https://angularjs.org/
 [tailwind]: https://tailwindcss.com/
