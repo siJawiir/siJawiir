@@ -4,7 +4,7 @@
 
 - 🎓 Jr. Frontend Developer
 - 🔎 Open for Work **opportunities**. Contact me!
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Kotlin**
 - 📧 How to reach me **raihanmarwanda@protonmail.com**
 - 🎉 Fun fact **Friendly & Explorer**
 
