@@ -2,10 +2,10 @@
 
 <br />
 
-- 🎓 Jr. Frontend Developer
+- 🎓 Fullstack Developer
 - 🔎 Open for Work **opportunities**. Contact me!
-- 🌱 I’m currently learning **Kotlin**
-- 📧 How to reach me **raihanmarwanda@protonmail.com**
+- 🌱 I’m currently learning **Go**
+- 📧 How to reach me **raihanmarwanda@gmail.com**
 - 🎉 Fun fact **Friendly & Explorer**
 
 <hr />
@@ -14,11 +14,9 @@
 [<img align="left" alt="javascript" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][javascript]
 [<img align="left" alt="javascript" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][typescript]
 [<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][reactjs]
-[<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />][angularjs]
+[<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />][go]
 [<img align="left" alt="tailwindcss" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />][tailwind]
 [<img align="left" alt="kotlin" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />][kotlin]
-[<img align="left" alt="dart" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />][dart]
-[<img align="left" alt="flutter" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />][flutter]
 [<img align="left" alt="firebase" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />][firebase]
 [<img align="left" alt="mysql" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][mysql]
 [<img align="left" alt="mysql" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />][postgresql]
@@ -26,11 +24,9 @@
 [javascript]: https://www.javascript.com/
 [typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org/
-[angularjs]: https://angularjs.org/
+[go]: https://go.dev/
 [tailwind]: https://tailwindcss.com/
 [kotlin]: https://kotlinlang.org/
-[dart]: https://dart.dev/
-[flutter]: https://flutter.dev/
 [firebase]: https://firebase.google.com/
 [mysql]: https://www.mysql.com/
 [postgresql]: https://www.postgresql.org/
