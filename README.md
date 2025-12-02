@@ -16,7 +16,6 @@
 [<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][reactjs]
 [<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />][go]
 [<img align="left" alt="tailwindcss" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />][tailwind]
-[<img align="left" alt="kotlin" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />][kotlin]
 [<img align="left" alt="firebase" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />][firebase]
 [<img align="left" alt="mysql" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][mysql]
 [<img align="left" alt="mysql" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />][postgresql]
@@ -26,7 +25,6 @@
 [reactjs]: https://reactjs.org/
 [go]: https://go.dev/
 [tailwind]: https://tailwindcss.com/
-[kotlin]: https://kotlinlang.org/
 [firebase]: https://firebase.google.com/
 [mysql]: https://www.mysql.com/
 [postgresql]: https://www.postgresql.org/
