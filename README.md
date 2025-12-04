@@ -2,9 +2,9 @@
 
 <br />
 
-- 🎓 Fullstack Developer
+- 🎓 Frontend Developer
 - 🔎 Open for Work **opportunities**. Contact me!
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Nuxt Js**
 - 📧 How to reach me **raihanmarwanda@gmail.com**
 - 🎉 Fun fact **Friendly & Explorer**
 
