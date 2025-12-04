@@ -13,7 +13,10 @@
 ### Stacks & Tools:
 [<img align="left" alt="javascript" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][javascript]
 [<img align="left" alt="javascript" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][typescript]
+[<img align="left" alt="javascript" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg" />][vue]
 [<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][reactjs]
+[<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" />][nextjs]
+[<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nuxt/nuxt-original.svg" />][nuxtjs]
 [<img align="left" alt="reactjs" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />][go]
 [<img align="left" alt="tailwindcss" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />][tailwind]
 [<img align="left" alt="firebase" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />][firebase]
