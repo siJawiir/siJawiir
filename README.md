@@ -25,7 +25,10 @@
 
 [javascript]: https://www.javascript.com/
 [typescript]: https://www.typescriptlang.org/
+[vue]: https://vuejs.org/
 [reactjs]: https://reactjs.org/
+[nextjs]: https://nextjs.org
+[nuxtjs]: https://nuxt.com/
 [go]: https://go.dev/
 [tailwind]: https://tailwindcss.com/
 [firebase]: https://firebase.google.com/
